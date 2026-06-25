@@ -29,8 +29,8 @@
         <summary><b>pony town</b></summary>
         <br>
         <ul>
-          <li>Cuddle&hug comfort, you're always welcome to sit with me—I may not always speak nor respond
-          <li>I don't like making friends, if I sit with you it doesnt mean I wish to be in your life
+          <li>Cuddle&hug comfort, you're always welcome to sit with me—I may not always speak nor respond. I don't look at profiles unless you wish to be my friend, so apologies if i was on your DNI
+          <li>
           <li>Anyone can interact, just keep yourself from being an incompetent idiot infront of me. I block freely
       </details>
     </td>
