@@ -23,7 +23,7 @@
         <summary><b>general information</b></summary>
         <br>
         <ul>
-          <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs released
+          <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs published
           <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
           <li>I have short-term memory loss, all of my memories are dreamlike making it difficult for me to differentiate or remember people and more
       </details>
