@@ -16,28 +16,14 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <details>
-        <summary><b>general information</b></summary>
-        <br>
-        <ul>
-          <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs published
-          <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
-          <li>I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and otherwise
-            <li>Anyone can interact with me, I block freely
-      </details>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <details>
-        <summary><b>pony town</b></summary>
-        <br>
-        <ul>
-          <li>Cuddle&hug comfort, you're always welcome to sit with me—I just may not respond reliably
-          <li>Whisper to interact. I’m mostly off-tab or semi-AFK, so I’ll miss most public chat messages. Don't be upset if it seems like I'm ignoring you
-      </details>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>general information</b></summary>
+
+I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs published
+
+I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psychosis disorder, and I'm in the process of getting evaluated for other potential conditions
+
+I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and otherwise
+
+</details>
 </div>
