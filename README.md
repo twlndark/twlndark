@@ -17,13 +17,14 @@
 
 <div align="center">
 <details>
-<summary><b>general information</b></summary>
+<summary><b><sub>general information</sub></b></summary>
 
-I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs published
+<sub>I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs published</sub/>
+>
 
-I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psychosis disorder, and I'm in the process of getting evaluated for other potential conditions
+<sub>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psychosis disorder, and I'm in the process of getting evaluated for other potential conditions</sub>
 
-I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and otherwise
+<sub>I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and otherwise</sub>
 
 </details>
 </div>
