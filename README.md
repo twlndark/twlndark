@@ -31,7 +31,7 @@
         <ul>
           <li>Cuddle&hug comfort, you're always welcome to sit with me—I may sometimes not speak
           <li>I rarely interact first unless I'm sending you a crown or compliments for your pony
-          <li>Interact with caution, I block freely even if it makes you upset
+          <li>I don't like making friends, if I sit with you it doesnt mean I wish to be in your life
           <li>Anyone can interact, just keep yourself from romanticizing real life issues infront of me
       </details>
     </td>
