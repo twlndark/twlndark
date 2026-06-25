@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tw1ndark&style=for-the-badge&label=souls+adrift&color=lightgrey" />
 </p> 
@@ -7,9 +6,7 @@
 ♡
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/81da1dcf-68ee-4544-b835-48376cbfc613" width="450" /> 
-</p>
+<img src="https://github.com/user-attachments/assets/81da1dcf-68ee-4544-b835-48376cbfc613" width="450" align="left" />
 
 <p align="center">
 <sub>❝The corruption in Chuuya’s body had already disappeared. Dazai had nullified it. He placed a hand on Chuuya’s cheek where it had been punched and smirked slightly. “So this is how you wake Snow White? Kinda violent, don’t you think?”</sub>
