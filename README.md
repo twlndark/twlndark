@@ -29,7 +29,7 @@
         <summary><b>pony town</b></summary>
         <br>
         <ul>
-          <li>Cuddle& hug comfort, you're always welcome to sit with me—I just may not respond reliably
+          <li>Cuddle&hug comfort, you're always welcome to sit with me—I just may not respond reliably
           <li>Whisper to interact. I’m mostly off-tab or semi-AFK, so I’ll miss most public chat messages. Don't be upset if it seems like I'm ignoring you
           <li>Anyone can interact, just keep yourself from being an incompetent idiot infront of me. I block freely
       </details>
