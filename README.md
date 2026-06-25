@@ -12,12 +12,6 @@
 ❝The corruption in Chuuya’s body had already disappeared. Dazai had nullified it. He placed a hand on Chuuya’s cheek where it had been punched and smirked slightly. “So this is how you wake Snow White? Kinda violent, don’t you think?”
 </p>
 
-<picture>
-<img width="770" height="100" alt="Untitled221_20260625220744" src="https://github.com/user-attachments/assets/e67b9e7f-a632-4c79-a4ae-a376d2a77520" />
-<br clear="both"/>
-</picture>
-
-
 <div align="center">
 <details>
 <summary><b>general information</b></summary>
