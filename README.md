@@ -18,11 +18,15 @@
 
 <div align="center">
 <details>
-<summary><b>Introduction</b></summary>
+<summary><b>Introduction to ********</b></summary>
+</div>
 
-I am 13 years old, my birthday is on December 14th—exactly 10 days after Bungo Stray Dogs was first published. I identify as aroace and agender
+#### basic information
+<div align="center">I am 13 years old, my birthday is on December 14th—exactly 10 days after Bungo Stray Dogs was first published. I identify as aroace and agender
 
-I have been diagnosed with autism spectrum disorder (level 3) and a non-organic psychosis disorder, and I am currently being evaluated for other potential disorders. I also experience short-term memory loss. The majority of my memories feel dreamlike, making it difficult for me to recognize or differentiate people and distinguish what is reality
+I have been diagnosed with autism spectrum disorder (level 3) and a non-organic psychosis disorder, and I am currently being evaluated for other potential disorders. I also experience short-term memory loss. The majority of my memories feel dreamlike, making it difficult for me to recognize or differentiate people and distinguish what is reality</div>
+
+---
+#### before you interact
 
 </details>
-</div>
