@@ -24,10 +24,5 @@
 I am 13 years old, my birthday is on December 14th—exactly 10 days after Bungo Stray Dogs was first published. I identify as aroace and agender
 
 I have been diagnosed with autism spectrum disorder (level 3) and a non-organic psychotic disorder, and I am currently being evaluated for other potential disorders. I also experience short-term memory loss. The majority of my memories feel dreamlike, making it difficult for me to recognize or differentiate between people and to distinguish what is reality
-
----
-#### before you interact ( disclaimer )
-
-I generally don't understand or maintain relationships well, so please don't take it personally as I just have an innate discomfort around people; I have a very low social battery unless my fixation was mentioned, and since I'm not very hyper nor energetic, I apologise if I seem dry or not as invested
 </details>
 </div>
