@@ -28,6 +28,6 @@ I have been diagnosed with autism spectrum disorder (level 3) and a non-organic 
 ---
 #### before you interact ( disclaimer )
 
-I have an 'out of sight, out of mind' perspective on people; I don't tend to remember them unless I interact daily. While I don't mind becoming close with someone, I don't really understand or maintain any type of relationships
+I have an 'out of sight, out of mind' perspective on people; I don't tend to remember them fully unless we interact daily. While I don't mind becoming close with someone, I don't really understand or maintain any type of relationships
 </details>
 </div>
