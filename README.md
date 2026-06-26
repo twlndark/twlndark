@@ -20,7 +20,7 @@
 <details>
 <summary><b>Introduction to Eleanore</b></summary>
      
-I am 13 years old, my birthday is on December 14th—exactly 10 days after Bungo Stray Dogs was first published. I identify as aroace and agender
+I'm 13 years old, my birthday is on December 14th—exactly 10 days after Bungo Stray Dogs was first published. I identify as aroace and agender
 
 I have been diagnosed with autism spectrum disorder (level 3) and an unspecified non-organic psychosis disorder, and I am currently being evaluated for other potential disorders. I also experience short-term memory loss. The majority of my memories feel dreamlike, making it difficult for me to recognize people and to distinguish what is reality
 </details>
