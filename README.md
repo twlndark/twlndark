@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://taintedsorrow.atabook.org/">新book</a>
 ㅤ⟡ㅤ
-<a href="meh">wip rentry</a>
+<a href="https://discord.com/users/dovtte">discord</a>
 </p>
 
 <p align="center">
