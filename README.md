@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://taintedsorrow.atabook.org/">新book</a>
 ㅤ⟡ㅤ
-<a href="https://discordapp.com/users/xuheoi">discord</a>
+<a href="meh">wip rentry</a>
 </p>
 
 <p align="center">
