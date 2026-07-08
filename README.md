@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://taintedsorrow.atabook.org/">新book</a>
 ㅤ⟡ㅤ
-<a href="https://discord.com/users/dovtte">discord</a>
+<a href="https://cake.avris.it/bC3">attraction cake</a>
 </p>
 
 <p align="center">
