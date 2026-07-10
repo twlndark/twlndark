@@ -5,7 +5,7 @@
 <p align="center">
 eden ᵒᵘㅤeleanore
 <br>
-darkshipper
+dark/pro-shipper
 <br>
 semi-verbalㅤ2012
 </p>
