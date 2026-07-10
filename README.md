@@ -3,6 +3,14 @@
 </p>
 
 <p align="center">
+eden ᵒᵘㅤeleanore
+<br>
+darkshipper
+<br>
+semi-verbalㅤ2012
+</p>
+
+<p align="center">
 <a href="https://taintedsorrow.atabook.org/">新book</a>
 ㅤ⟡ㅤ
 <a href="https://pronouns.cc/@taintedsorrow">prns.cc</a>
