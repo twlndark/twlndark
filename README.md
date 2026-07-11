@@ -5,9 +5,7 @@
 <p align="center">
 eden ᵒᵘㅤeleanore
 <br>
-darkshipper
-<br>
-semi-verbalㅤ2012
+darkshipperㅤ13y
 </p>
 
 <p align="center">
