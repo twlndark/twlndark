@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=twlndark&style=flat&label=soiled+sorrow&color=orange&base=300">
+<img src="https://komarev.com/ghpvc/?username=twlndark&style=flat&label=soukoku&color=orange&base=300">
 </p>
 <p align="center">
   <sub>art by @yasulk</sub>
