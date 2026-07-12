@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-edenㅤᵒᵘㅤeleanore
+edenㅤᵒᵘㅤㅤeleanore
 <br>
-darkshipㅤsemi-verbal
+darkshipperㅤsemi-verbal
 </p>
 
 <p align="center">
