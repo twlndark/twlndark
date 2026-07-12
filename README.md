@@ -6,9 +6,3 @@
 ㅤ⟡ㅤ
 <a href="https://rentry.org/taintedsorrow">directory</a>
 </p>
-
-<p align="center">
-eden ᵒᵘ eleanore
-<br>
-autism spectrum
-</p>
