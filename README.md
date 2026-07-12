@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-edenㅤᵒᵘㅤㅤeleanore
-<br>
-darkshipper
+eden ᵒᵘ eleanore
 <br>
 autism spectrum
 </p>
