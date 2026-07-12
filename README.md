@@ -11,5 +11,5 @@ darkshipㅤsemi-verbal
 <p align="center">
 <a href="https://taintedsorrow.atabook.org/">新book</a>
 ㅤ⟡ㅤ
-<a href="https://pronouns.cc/@taintedsorrow">prns.cc</a>
+<a href="https://pronouns.cc/@taintedsorrow">pronouns</a>
 </p>
