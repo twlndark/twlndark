@@ -7,7 +7,7 @@ edenㅤᵒᵘㅤㅤeleanore
 <br>
 darkshipperㅤsemi-verbal
 <br>
-autistic level 3ㅤPNOS
+autistic spectrumㅤPNOS
 </p>
 
 <p align="center">
