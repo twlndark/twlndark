@@ -5,7 +5,7 @@
 <p align="center">
 edenㅤᵒᵘㅤㅤeleanore
 <br>
-born 2012ㅤdarkshipper
+autism spectrum
 </p>
 
 <p align="center">
