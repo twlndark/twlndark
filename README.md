@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-edenㅤᵒᵘㅤㅤeleanore
+eden ᵒᵘㅤeleanore
 <br>
 autism spectrum
 </p>
