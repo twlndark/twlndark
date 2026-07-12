@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-eden ᵒᵘ eleanore
+edenㅤᵒᵘㅤeleanore
 <br>
-autism spectrum
+autism spectrum disorder
 </p>
 
 <p align="center">
