@@ -5,9 +5,9 @@
 <p align="center">
 edenㅤᵒᵘㅤㅤeleanore
 <br>
-darkshipperㅤsemi-verbal
+darkshipper
 <br>
-autism spectrumㅤPNOS
+autism spectrum
 </p>
 
 <p align="center">
