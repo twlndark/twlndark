@@ -7,7 +7,7 @@ edenㅤᵒᵘㅤㅤeleanore
 <br>
 darkshipperㅤsemi-verbal
 <br>
-autistic spectrumㅤPNOS
+autism spectrumㅤPNOS
 </p>
 
 <p align="center">
