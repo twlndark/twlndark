@@ -11,5 +11,5 @@ born 2012ㅤdarkshipper
 <p align="center">
 <a href="https://taintedsorrow.atabook.org/">新book</a>
 ㅤ⟡ㅤ
-<a href="https://pronouns.cc/@taintedsorrow">pronouns</a>
+<a href="https://rentry.org/taintedsorrow">directory</a>
 </p>
