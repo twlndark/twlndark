@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-edenㅤᵒᵘㅤeleanore
+edenㅤᵒᵘㅤㅤeleanore
 <br>
-autism spectrum disorder
+born 2012ㅤdarkshipper
 </p>
 
 <p align="center">
