@@ -6,3 +6,7 @@
 <p align="center">
 <img width="436" height="214" alt="ed8c59c602fcb48bd2316a8aa8285d81" src="https://github.com/user-attachments/assets/b6089287-f54c-4dbf-b173-e456cfcff10a" />
 </p>
+
+<p align="center">
+  <sub><a href="https://rentry.org/taintedsorrow">main rentry</a> ⠀<a href="https://taintedsorrow.atabook.org/">新book</a><sub/>
+</p>
