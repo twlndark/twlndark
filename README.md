@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://rentry.org/taintedsorrow">main rentry</a> ⠀<a href="https://taintedsorrow.atabook.org/">新book</a><sub/>
+  <sub><a href="https://rentry.org/taintedsorrow">rentry</a> ⠀<a href="https://taintedsorrow.atabook.org/">新book</a><sub/>
 </p>
