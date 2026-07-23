@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://rentry.org/preception">main rentry</a>⠀<a href="https://onism.atabook.org/">guestbook</a><sub/> 
+  <sub><a href="https://pronouns.cc/@buns">prns.cc</a>⠀<a href="https://onism.atabook.org/">guestbook</a><sub/> 
 </p>
