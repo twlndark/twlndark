@@ -6,7 +6,3 @@
 <p align="center">
 <img width="436" height="214" alt="ed8c59c602fcb48bd2316a8aa8285d81" src="https://github.com/user-attachments/assets/b6089287-f54c-4dbf-b173-e456cfcff10a" />
 </p>
-
-<p align="center">
-  <sub><a href="https://pronouns.cc/@buns">prns.cc</a>⠀<a href="https://onism.atabook.org/">guestbook</a><sub/> 
-</p>
